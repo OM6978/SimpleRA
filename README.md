@@ -1,5 +1,3 @@
-# CS4.401 - Data Systems
-
 # Phase 1
 ## Extending SimpleRA to include Matrices
 
